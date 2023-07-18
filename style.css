@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: o;
+}
+.container{
+    max-width: 1240px;
+    margin: 50px auto;
+    text-align: right;
+
+}
+table{
+    border: 2px solid red;
+    margin: 0 auto;
+}
+.table_caption{
+    font-size: 30px;
+}
+thead{
+    font-size: 24px;
+    font-weight: bold;
+    color: lightslategrey;
+}
+table img {
+    max-width: 45px;
+    border-radius: 20px;
+}
+td {
+    padding: 10px 20px;
+    text-align: center;
+    border: 1px solid lightslategray;
+}
+a {
+    text-decoration: none;
+    background: lightcyan;
+    padding: 10px 19px;
+    display: inline-block;
+    margin: 5px;
+    border-radius: 6px;
+    color: #000;
+    font-size: 17px;
+    font-weight: bold;
+}
+.update{
+    background: blue;
+}
+.delete{
+    background: red;
+}
+form {
+    text-align: center;
+}
+input {
+    width: 300px;
+    display: block;
+    font-size: 18px;
+    padding: 10px;
+    margin: 10px auto;
+}
